@@ -1,0 +1,48 @@
+body {
+ margin: 0 auto;
+ padding: 0 auto;
+}
+
+.head {
+  width: 650px;
+  height: 100px;
+  background-color: red;
+}
+
+.head_title {
+   margin: 0 auto;
+   padding: 0 auto;
+   text-align: center;
+}
+
+.content {
+  max-width: 650px;
+  height: 150px;
+  background-color: green;
+}
+
+.column {
+  max-width: auto;
+}
+
+.part {
+  height: 50px;
+  background-color: yellow;
+}
+
+.column__text {
+ margin: 0 auto;
+ background-color: lightblue;
+ text-align: center;
+}
+
+.basement {
+  width: 650px;
+  height: 50px;
+  background-color: yellow;
+}
+
+.basement__text {
+  margin: 0 auto;
+}
+
