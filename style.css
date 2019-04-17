@@ -1,3 +1,7 @@
+* {
+  font-family: 'Oswald';
+}
+
 body {
  margin: 0 auto;
  padding: 0 auto;
@@ -10,6 +14,7 @@ body {
 }
 
 .head_title {
+  font-family: 'Roboto';
    margin: 0 auto;
    padding: 0 auto;
    text-align: center;
